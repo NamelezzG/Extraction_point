@@ -6,9 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Extraction_point/Content/UI/MainMenu.uasset",
-				"C:/Extraction_point/Content/Resources/Apocalypse-Regular.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/Roboto.uasset",
-				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/Apocalypse-Regular.uasset",
 				"C:/Extraction_point/Content/Resources/Fonts/SPANISH_APOCALYPSE.uasset",
 				"C:/Extraction_point/Content/Resources/Fonts/SPANISH_APOCALYPSE_Font.uasset",
 				"C:/Extraction_point/Content/UI/MenuMode.uasset",
@@ -91,7 +89,15 @@
 				"C:/Extraction_point/Content/__ExternalActors__/UI/Untitled/3/9P/YMITKWK7IXQUKCBOJ9PUEX.uasset",
 				"C:/Extraction_point/Content/__ExternalActors__/UI/Untitled/A/MO/2CBCJ8MPJJQ53OJU4J4UKR.uasset",
 				"C:/Extraction_point/Content/__ExternalActors__/UI/Untitled/6/RP/NCWX01J80343LSK0BYSS8I.uasset",
-				"C:/Extraction_point/Content/UI/Untitled.umap"
+				"C:/Extraction_point/Content/UI/Untitled.umap",
+				"C:/Extraction_point/Content/Resources/Images/ImageMainMenu.uasset",
+				"C:/Extraction_point/Content/UI/InGameInventorySystem/InventoryComponent.uasset",
+				"C:/Extraction_point/Content/UI/InGameInventorySystem/ObjectEstructure.uasset",
+				"C:/Extraction_point/Content/UI/InGameInventorySystem/InteractionInterface.uasset",
+				"C:/Extraction_point/Content/UI/InGameInventorySystem/ObjectActorExample.uasset",
+				"C:/Extraction_point/Content/UI/InGameInventorySystem/SlotEstructure.uasset",
+				"C:/Extraction_point/Content/Resources/Apocalypse-Regular.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/Apocalypse-Regular.uasset"
 			]
 		}
 	]
