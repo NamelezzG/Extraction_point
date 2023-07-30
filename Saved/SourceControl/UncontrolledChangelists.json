@@ -96,7 +96,6 @@
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/InteractionInterface.uasset",
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/ObjectActorExample.uasset",
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/SlotEstructure.uasset",
-				"C:/Extraction_point/Content/UI/3DModels/T.umap",
 				"C:/Extraction_point/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
 				"C:/Extraction_point/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Extraction_point/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
@@ -305,6 +304,8 @@
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/HUD.uasset",
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/InventoryWindow.uasset",
 				"C:/Extraction_point/Content/UI/InGameInventorySystem/Slots.uasset",
+				"C:/Extraction_point/Content/Resources/Images/Icons/ic_close.uasset",
+				"C:/Extraction_point/Content/UI/3DModels/T.umap",
 				"C:/Extraction_point/Content/Resources/Apocalypse-Regular.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineFonts/Apocalypse-Regular.uasset"
 			]
